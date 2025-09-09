@@ -1,9 +1,6 @@
 # CS167-SP25-Notebook-2
 # Notebook #2: K Nearest Neighbors and Normalization
 
-## Starter Code
-Starter code for this project is avaiable here: https://github.com/urness/CS167Fall2025/blob/main/notebook2_starter.ipynb. Click on the "Open in Colab" and save the file to your Google Drive.
-
 ## The Data
 For this notebook, you will load a new data set dealing with cars :articulated_lorry: :blue_car: :red_car: :taxi: :bus: and fuel efficiency :fuelpump: (vehicles.csv - available on blackboard) using Pandas and perform some subsetting operations.
 
