@@ -34,4 +34,6 @@ Notebook #2 consists of the following exercises :muscle:.
     - Compare your results. 
     - Use a markup cell to describe and explain the differences in a few sentences.
 6. Do something original with the data. Ask a question. Get an answer. Explain your thinking and your results.
+
+
 To submit your work, use a Markup cell to put your name at the top of the file. Download the .ipynb file. Submit this assignment on Blackboard.
