@@ -26,7 +26,8 @@ Notebook #2 consists of the following exercises :muscle:.
     - Useful functions here are `isna()`, `any()`, `fillna()`, `value_counts()` and `dropna()`. 
     - Describe in a markup cell what you decided to do with the null data and why.
 3. **Write up a k-nearest-neighbors function like the one you made for the iris data set in class.** 
-    - It should be able to make mpg ("comb08") predictions for new cars based on the year, cylinders, and displacement. 
+    - It should be able to make mpg ("comb08") predictions for new cars based on the year, cylinders, and displacement.
+    - Note that it should NOT return the `mode` of the target variable. An adjustment should be made in your algorithm to accomodate that the target variable is numeric. 
     - You should also be able to specify what you want to use as k.
 4. **Demonstrate that your function works by making up some new values for hypothetical cars and using your function to display the predicted mpg ("comb08") for that car.**
 5. **Make a copy of the data and normalize the training data using Z-score-- `copy()` will be useful here.** 
