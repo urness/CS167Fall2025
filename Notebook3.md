@@ -5,7 +5,7 @@ For this notebook, you will once again load a new data set dealing with cars :ar
 
 For this notebook, you're going to continue working with the k-NN function you made for predicting vehicle fuel efficiency from Notebook 2. With this dataset, however, you need to only use the numeric features `['Engine Size', 'Mileage', 'Year']` with "Price" being the target feature.
 
-However, this time, you are going to **cross-validate** your model by using independent training and test subsets of the data. 
+In this Notebook, you are asked to **cross-validate** your model by using independent training and test subsets of the data. 
 
 For an example of this using the Iris dataset, see the notes from September 18th, ([or this GitHub repository](https://github.com/urness/CS167Fall2025/blob/main/Day08_Metrics_and_Testing.ipynb))
 
