@@ -5,7 +5,7 @@ For this notebook, you're going to continue working with the k-NN function, but 
 ## The Data: :blue_car:
 
 For this notebook, you should first download the dataset `Car_Price_Prediction.csv` - available on blackboard.  
-You need to only use the numeric features `['Engine Size', 'Mileage', 'Year']` with "Price" being the target feature.
+You need to only use the numeric features `['Engine Size', 'Mileage', 'Year', "Price"]` with `"Price"` being the target feature.
 
 In this Notebook, you are asked to **cross-validate** your model by using independent training and test subsets of the data. 
 
