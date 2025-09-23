@@ -5,7 +5,7 @@ For this notebook, you're going to continue working with the k-NN function, but 
 ## The Data: :blue_car:
 
 For this notebook, you should first download the dataset `Car_Price_Prediction.csv` - available on blackboard.  
-You need to only use the numeric features `['Engine Size', 'Mileage', 'Year', "Price"]` with `"Price"` being the target feature.
+You need to only use the numeric features `['Engine Size', 'Mileage', 'Year', 'Price']` with `"Price"` being the target feature.
 
 In this Notebook, you are asked to **cross-validate** your model by using independent training and test subsets of the data. 
 
@@ -13,7 +13,7 @@ For an example of this using the Iris dataset, see the notes from September 18th
 
 ## What you need to do: 
 1. Put your name at the top of your .ipynb file.
-2. Download `Car_Price_Prediction.csv` from the blackboard website, and create a subset of the data that consists of the numeric features `['Engine Size', 'Mileage', 'Year', "Price"]` with `"Price"` being the target feature. Prepare the data and kNN functions in the following ways:
+2. Download `Car_Price_Prediction.csv` from the blackboard website, and create a subset of the data that consists of the numeric features `['Engine Size', 'Mileage', 'Year', 'Price']` with `"Price"` being the target feature. Prepare the data and kNN functions in the following ways:
     - Clean the data. Are there any missing data? Use a text field to describe what you decided to do to clean the data and why.
     - Don't forget that you are doing regression -- pay attention to what you may need to change in the implementation of kNN to make this do *regression* rather than *classification*.
 3. Use the approximately 20% of a shuffled set as testing data. 
