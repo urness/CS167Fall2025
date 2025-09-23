@@ -1,7 +1,7 @@
 # Notebook #3: Cross Validation with kNN and Vehicle Fuel Efficiency
 
 ## The Data: :blue_car:
-For this notebook, you will once again load a new data set dealing with cars :articulated_lorry: :red_car: :taxi: :bus: but with the target variable **Price** :heavy_dollar_sign: (Car_Price_Prediction.csv - available on blackboard).
+For this notebook, you will once again load a new data set dealing with cars :articulated_lorry: :red_car: :taxi: :bus: but with the target variable "Price" (`Car_Price_Prediction.csv` - available on blackboard).
 
 For this notebook, you're going to continue working with the k-NN function you made for predicting vehicle fuel efficiency from Notebook 2. With this dataset, however, you need to only use the numeric features `['Engine Size', 'Mileage', 'Year']` with "Price" being the target feature.
 
