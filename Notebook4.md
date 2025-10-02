@@ -4,7 +4,7 @@ In this notebook, you will explore how to use the [scikit-learn](https://scikit-
 
 ## 📊 The Data  
 
-We will work with a new dataset focused on **wine quality** 🍷. The dataset is available in the **“Datasets”** section of Blackboard.  
+We will work with a new dataset focused on **wine quality** 🍷. The dataset is available in the **“Datasets”** section of Blackboard (winequality-white.csv). The data does not need to be cleaned. 
 
 The original source can be found on [Kaggle: White Wine Quality Dataset](https://www.kaggle.com/datasets/piyushagni5/white-wine-quality).  
 
