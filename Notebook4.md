@@ -21,6 +21,6 @@ The goal for this machine learning exercise is to use the scikit-learn library i
 * What algorithm performed better? kNN or Decision Trees? Why do you think this was the case?
 * What effect did normalizing the data have on your results? Explain. 
 
-**Part 4: [1 point]** Use a Markup cell to answer the following questions:
+**Part 4: [1 point]** Do something original with the data. Ask a question. Get an answer. Explain your thinking and your results.
 
 Lastly, as always, use a Markup cell to put your name at the top of the file. Rename your file LastnameNotebook4.ipynb and submit it to this submission form. You do not need to submit a copy of the data.
