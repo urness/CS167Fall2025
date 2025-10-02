@@ -37,3 +37,6 @@ In a Markdown cell, answer the following reflection questions:
 
 **Part 4: [1 point]**  
 Do something **original** with the dataset. Ask a new question, run an experiment, and explain your reasoning and results. Creativity and thoughtful analysis are encouraged.  
+
+---
+Use a Markup cell to put your name at the top of the file. Rename your file LastnameNotebook4.ipynb and submit it via Blackboard.
