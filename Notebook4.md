@@ -15,7 +15,7 @@ The goal for this machine learning exercise is to use the scikit-learn library i
 * a decision tree with default parameter values (you can establish `random_state=` to keep your executions consistent)
 * a decision tree, setting some kind of parameter that results in a smaller tree 
 
-**Part 2: [1 point]** Normalize the data and run a k-Nearest-Neighbor algorithm on it (use the StandardScalar from sklearn).
+**Part 2: [1 point]** Normalize the data and run a weighted k-Nearest-Neighbor algorithm on it (use the StandardScalar from sklearn). Adjust the number of k to maximize the performance.
 
 **Part 3: [2 points]** Use a Markup cell to answer the following questions:
 * What effect did a large k vs. a smaller k have on your results?
