@@ -1,26 +1,26 @@
-# Notebook #4: Cross Validation with kNN
+# Notebook #4: Scikit Learn with Wine Quality Dataset
 
-For this notebook, you're going to continue working with the k-NN function, but applied to a new dataset -- predicting the price of used cars. :articulated_lorry: :red_car: :taxi: :bus:
+For this notebook, you are going to demonstrate how to use the scikit-learn library (https://scikit-learn.org) to perform machine learning experiments. 
+## The Data :bar_chart: 
+You will use a new dataset that deals with wine quality :wine_glass: (available in the "Datasets" section of the blackboard website. 
 
-## The Data: :blue_car:
+The goal for this machine learning exercise is to use the scikit-learn library implementation of **k-Nearest-Neighbors** and **Decision Trees** to make predictions on the quality of wine based on 1599 learning examples. 
 
-For this notebook, you should first download the dataset `Car_Price_Prediction.csv` - available on blackboard.  
-You need to only use the numeric features `['Engine Size', 'Mileage', 'Year', 'Price']` with `"Price"` being the target feature.
+## The Exercises:
+**Part 1: [3 points]** You must run at least 6 variations of the algorithms and display their results using an appropriate regression metric (again, use the scikit-learn modules). I will be looking for the following to be included in your comparison:
+* k-Nearest-Neighbor with a small value of k
+* k-Nearest-Neighbor with a large value of k
+* weighted k-Nearest-Neighbor with a small value of k (the same one you used for the unweighted version)
+* weighted k-Nearest-Neighbor with a large value of k (the same one you used for the unweighted version)
+* a decision tree with default parameter values
+* a decision tree, setting some kind of parameter that results in a smaller tree 
 
-In this Notebook, you are asked to **cross-validate** your model by using independent training and test subsets of the data. 
+**Part 2: [1 point]** Normalize the data and run a k-Nearest-Neighbor algorithm on it (use the StandardScalar from sklearn).
 
-For an example of this using the Iris dataset, see the notes from September 18th, ([or this GitHub repository](https://github.com/urness/CS167Fall2025/blob/main/Day08_Metrics_and_Testing.ipynb))
+**Part 3: [1 point]** Use a Markup cell to answer the following questions:
+* What algorithm performed better? kNN or Decision Trees? Why do you think this was the case?
+* What effect did normalizing the data have on your results? Explain. 
 
-## What you need to do: 
-1. Put your name at the top of your .ipynb file.
-2. Download `Car_Price_Prediction.csv` from the blackboard website, and create a subset of the data that consists of the numeric features `['Engine Size', 'Mileage', 'Year', 'Price']` with `"Price"` being the target feature. Prepare the data and kNN functions in the following ways:
-    - Clean the data. Are there any missing data? Use a text field to describe what you decided to do to clean the data and why.
-    - Don't forget that you are doing regression -- pay attention to what you may need to change in the implementation of kNN to make this do *regression* rather than *classification*.
-3. Use the approximately 20% of a shuffled set as testing data. 
-4. Test your model using several different values of k and **graphically show the results**.
-    - Make sure to implement an appropriate regression metric - you can use any of the ones we discussed in class. 
-    - The sample code (with the iris dataset) uses the word "classification" a lot in names of things - make sure you use the word "regression" instead if you write similar functions.
-5. What conclusions can you draw about the best number for k for the k-NN algorithm for this data set? Use a markdown cell to explain your conclusions in a few sentences.
-6. Do something original with the data. Ask a question. Get an answer. Explain your thinking and your results.
+**Part 4: [1 point]** Use a Markup cell to answer the following questions:
 
-To submit your work, use a Markup cell to put your name at the top of the file. Download the .ipynb file. Submit this assignment on Blackboard.
+Lastly, as always, use a Markup cell to put your name at the top of the file. Rename your file LastnameNotebook4.ipynb and submit it to this submission form. You do not need to submit a copy of the data.
