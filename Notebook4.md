@@ -7,7 +7,7 @@ You will use a new dataset that deals with wine quality :wine_glass: (available 
 The goal for this machine learning exercise is to use the scikit-learn library implementation of **k-Nearest-Neighbors** and **Decision Trees** to make predictions on the quality of wine based on 1599 learning examples. 
 
 ## The Exercises:
-**Part 1: [3 points]** You must run at least 6 variations of the algorithms and display their results using an appropriate regression metric (again, use the scikit-learn modules). I will be looking for the following to be included in your comparison:
+**Part 1: [2 points]** You must run at least 6 variations of the algorithms and display their results using an appropriate regression metric (again, use the scikit-learn modules). I will be looking for the following to be included in your comparison:
 * k-Nearest-Neighbor with a small value of k
 * k-Nearest-Neighbor with a large value of k
 * weighted k-Nearest-Neighbor with a small value of k (the same one you used for the unweighted version)
@@ -17,9 +17,10 @@ The goal for this machine learning exercise is to use the scikit-learn library i
 
 **Part 2: [1 point]** Normalize the data and run a k-Nearest-Neighbor algorithm on it (use the StandardScalar from sklearn).
 
-**Part 3: [1 point]** Use a Markup cell to answer the following questions:
+**Part 3: [2 points]** Use a Markup cell to answer the following questions:
+* What effect did a large k vs. a smaller k have on your results?
 * What algorithm performed better? kNN or Decision Trees? Why do you think this was the case?
-* What effect did normalizing the data have on your results? Explain. 
+* What effect did normalizing the data have on your results? Why do you think this was the case? 
 
 **Part 4: [1 point]** Do something original with the data. Ask a question. Get an answer. Explain your thinking and your results.
 
