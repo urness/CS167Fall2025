@@ -12,7 +12,7 @@ The goal for this machine learning exercise is to use the scikit-learn library i
 * k-Nearest-Neighbor with a large value of k
 * weighted k-Nearest-Neighbor with a small value of k (the same one you used for the unweighted version)
 * weighted k-Nearest-Neighbor with a large value of k (the same one you used for the unweighted version)
-* a decision tree with default parameter values
+* a decision tree with default parameter values (you can establish `random_state=2`)
 * a decision tree, setting some kind of parameter that results in a smaller tree 
 
 **Part 2: [1 point]** Normalize the data and run a k-Nearest-Neighbor algorithm on it (use the StandardScalar from sklearn).
