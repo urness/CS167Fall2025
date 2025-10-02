@@ -18,7 +18,7 @@ Run at least **six variations** of the algorithms and evaluate their performance
 - Weighted k-Nearest Neighbors with the **same small k** as above  
 - Weighted k-Nearest Neighbors with the **same large k** as above  
 - A Decision Tree with **default parameters** (you may set `random_state` to ensure reproducibility)  
-- A Decision Tree with at least one **tuned parameter** that results in a smaller tree (e.g., `max_depth`, `min_samples_split`)  
+- A Decision Tree with at least one **tuned parameter** that results in a smaller tree (e.g., `max_depth`, `max_leaf_nodes`)  
 
 ---
 
