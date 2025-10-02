@@ -2,7 +2,7 @@
 
 For this notebook, you are going to demonstrate how to use the scikit-learn library (https://scikit-learn.org) to perform machine learning experiments. 
 ## The Data :bar_chart: 
-You will use a new dataset that deals with wine quality :wine_glass: (available in the "Datasets" section of the blackboard website). The data is originally from kaggle.com[https://www.kaggle.com/datasets/piyushagni5/white-wine-quality]
+You will use a new dataset that deals with wine quality :wine_glass: (available in the "Datasets" section of the blackboard website). The data is originally from (kaggle.com)[https://www.kaggle.com/datasets/piyushagni5/white-wine-quality]
 
 The goal for this machine learning exercise is to use the scikit-learn library implementation of **k-Nearest-Neighbors** and **Decision Trees** to make predictions on the quality of wine based on 1599 learning examples. 
 
