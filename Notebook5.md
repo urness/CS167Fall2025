@@ -6,7 +6,7 @@ Deep learning with MLP and CNN for an image recognition task.
 For this notebook, you will train two deep neural networks (DNN): **Part 1) a multilayer perceptron (MLP)***, and Part 2) a convolutional neural network (CNN) for an image recognition task. In this case, the algorithm will utilize a dataset of images to learn useful features for classifying an image into one of 10 classes. You should be using the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html).
 
 <div>
-<img src="https://analytics.drake.edu/~reza/teaching_hidden/cs167_fall23/notes/images/cifar-10-sprite.png" width=500/>
+<img src="https://docs.pytorch.org/tutorials/_images/cifar10.png" width=500/>
 </div>
 
 The starter notebook contains a snippet of code on how to download the dataset using PyTorch's __torchvision.datasets__ module
