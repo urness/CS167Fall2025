@@ -52,7 +52,7 @@ Your final submission will be a **Kaggle iPython notebook** that includes your c
 Your written markdown sections must include the following:
 
 ### 1. Problem (2 points)
-State the problem you are trying to solve. Include a description of the dataset, the classes involved, and your overall goal.
+State the problem you are trying to solve. Include a description of the dataset, the classes involved, and your overall goal. Your project should read like a reserach report.
 
 ### 2. Research (10 points)
 This is where your code and experiments go.
@@ -61,11 +61,12 @@ Your research must include:
 - A clear description of the process you used  
 - Parameter tuning efforts (not only running more epochs)  
 - Graphs showing performance of each model  
-- Appropriate evaluation metrics (e.g., accuracy)
+- Appropriate evaluation metrics
 
 ### 3. Analysis (12 points)
 Explain your findings in depth:
-- Which model performed best, and why?  
+- What is AlexNet?  
+- Which model performed best, and why?
 - Which model struggled, and why?  
 - What insights or recommendations can you make?  
 - How did you choose tuning parameters?  
