@@ -91,7 +91,6 @@ Possible ideas include:
 - Building a **local chatbot** using Ollama and serving it through a simple Flask webpage  
 - Creating a domain-specific assistant (e.g., math tutor, cybersecurity advice bot, study helper)  
 - Fine-tuning a small transformer on a custom dataset  
-- Creating an embedding-based search or RAG system  
 
 If you choose this option, your report must include:
 - The code you wrote  
