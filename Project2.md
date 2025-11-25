@@ -35,11 +35,10 @@ You may choose from one of the following datasets:
 #### Image Classification (bfgmss) [recommended]
 - Color 150×150 images  
 - Six classes: building, forest, glacier, mountain, sea, street  
-- Sample starter code provided [here](https://github.com/urness/CS167Fall2025/blob/main/project2startercodebfgmss.ipynb).
 <p align="center">
   <img src="https://raw.githubusercontent.com/urness/CS167Fall2025/main/bfgmss_example.png" width="400">
 </p>
-
+- Sample starter code provided [here](https://github.com/urness/CS167Fall2025/blob/main/project2startercodebfgmss.ipynb).
 
 #### Chest X-Ray Pneumonia Detection (warning: difficult)
 - Grayscale 200×200 images  
