@@ -1,7 +1,7 @@
 # CS 167 — Project 2
 ## Choose Your Own Machine Learning Adventure
 
-## Learning Objectives 
+## Learning Objectives
 In this project, you will design and conduct a machine learning experiment of your choosing. Your final write-up should read like a lab report: clearly explaining what you did, presenting your results, and interpreting what those results mean.
 
 This project directly addresses two course learning objectives:
@@ -27,108 +27,105 @@ Your task is to explore multiple configurations, run experiments, and thoroughly
 
 ## Available Datasets
 
-### 🔹 Chest X-Ray Pneumonia Detection
+### Chest X-Ray Pneumonia Detection
 - Grayscale 200×200 images  
-- Labels: **NORMAL** or **PNEUMONIA**  
+- Labels: NORMAL or PNEUMONIA  
 - Sample code provided (uploading to Kaggle, starter MLP/CNN classes)
 
-### 🔹 Image Classification (bfgmss)
-- Color 150×150 images
-- Six classes: **building, forest, glacier, mountain, sea, street**
+### Image Classification (bfgmss)
+- Color 150×150 images  
+- Six classes: building, forest, glacier, mountain, sea, street  
 - Sample code provided (uploading to Kaggle, starter MLP/CNN classes)
 
-**In your report, explain *why* each model performed the way it did.**
-Discuss architecture differences, suitability for the data, and the impact of hyperparameters.
+In your report, explain why each model performed the way it did. Discuss architecture differences, suitability for the data, and the impact of hyperparameters.
 
-# Project Expectations 
-Your final submission will be a **Kaggle iPythong notebook** containing:
-- All code used
-- All graphs, outputs, and results
-- Clear, well-written markdown explanations
+---
+
+# Project Expectations (for Option 1)
+Your final submission will be a **Kaggle iPython notebook** containing:
+- All code used  
+- All graphs, outputs, and results  
+- Clear, well-written markdown explanations  
 
 Your write-up must include the following sections:
 
----
 ### 1. Problem (2 points)
 Clearly state the problem you are trying to solve and the goal of your experiment.
 
----
 ### 2. Research (10 points)
-This is where your **code**, **experiments**, and **model exploration** go.
+This section includes your code, experiments, and model exploration.
 
 Your research section must include:
-- A description of the process you followed
-- Parameter tuning efforts (not just running for more epochs)
-- Graphs showing model performance
-- Metrics appropriate to your task (accuracy)
+- A description of the process you followed  
+- Parameter tuning efforts (not just running for more epochs)  
+- Graphs showing model performance  
+- Metrics appropriate to your task (e.g., accuracy)
 
----
 ### 3. Analysis (12 points)
 Explain your findings in depth:
-- What did you discover?
-- Which model performed best, **and why**?
-- Which models struggled, **and why**?
-- What insights or recommendations do you have?
-- How did you decide how long to train/tune the model?
+- What did you discover?  
+- Which model performed best, and why?  
+- Which models struggled, and why?  
+- What insights or recommendations do you have?  
+- How did you decide how long to train or tune the model?
 
-This should be the **richest** and most thoughtful part of your report.
+This should be the most substantial and thoughtful part of your report.
 
----
 ### 4. Bumps in the Road (1 point)
-Briefly describe your challenges:
-- What went wrong?
+Briefly describe challenges you encountered:
+- What went wrong?  
 - How did you fix it or work around it?
 
 ---
 
-
 # Option 2 — Do Something Interesting with Transformers
 
-Interested in cutting-edge AI? Choose this option to create a project involving **transformers**.
+Choose this option if you'd like to explore cutting-edge AI by building a project involving **transformers**.
 
-Possible ideas include (but are not limited to):
-- Build a **local chatbot** using **Ollama** and host it through a simple **Flask webpage**.
-- Create a domain-specific assistant (e.g., a math tutor, cybersecurity advice bot, study helper, etc.).
-- Fine-tune a small transformer on a custom dataset.
+Possible project ideas include:
+- Building a local chatbot using Ollama and hosting it through a simple Flask webpage  
+- Creating a domain-specific assistant (e.g., math tutor, cybersecurity helper, study guide generator)  
+- Fine-tuning a small transformer model on a custom dataset  
 
 If you choose this option, your report must include:
-- The code you wrote.
-- A **user guide** explaining how to use your system.
-- **Screenshots and examples** demonstrating your working application.
-
-# Project Expectations 
-Your final submission will be a **Google Colab notebook**  and supporting documents containing:
-- All code used
-- All graphs, outputs, and results
-- Clear, well-written markdown explanations
-- Screenshots and example interactions
+- The code you wrote  
+- A user guide explaining how to use your system  
+- Screenshots and examples demonstrating your working application  
 
 ---
-## Use of Generative AI (ChatGPT, Copilot, etc.) 🤖
 
-You **may** use generative AI tools (e.g., ChatGPT, Copilot, Gemini, etc.) for this project **under the following conditions**:
+# Project Expectations (for Option 2)
+Your final submission will be a **Google Colab notebook** and supporting documents containing:
+- All code used  
+- All graphs, outputs, and results  
+- Clear, well-written markdown explanations  
+- Screenshots and example interactions demonstrating your system  
 
-1. **You must clearly cite any AI assistance.**
-   - At the top or bottom of your notebook, include a short “AI Acknowledgment” section.
-   - Example:  
-     > Portions of the code and/or text in this notebook were generated with the assistance of ChatGPT (OpenAI) on 11/25/2025 and then modified by me.
+---
 
-2. **You are fully responsible for understanding all code and analysis you submit.**
-   - If you use AI-generated code, you must be able to:
-     - Explain what it does line by line.
-     - Justify why it is appropriate for the dataset and task.
-     - Interpret the results it produces.
+# Use of Generative AI (ChatGPT, Copilot, Gemini, etc.)
 
-3. **Code suspected to be purely AI-generated (and not understood by the student) will be scrutinized.**
-   - In such cases, the **analysis, explanations, and depth of understanding** will be held to the **highest standards**.
-   - If you cannot explain your own code or results, your grade will reflect that lack of understanding, regardless of how “good” the code looks.
+You may use generative AI tools for this project, under the following conditions:
+
+1. **You must clearly cite any AI assistance.**  
+   Include an “AI Acknowledgment” section in your notebook.  
+   Example:  
+   *Portions of this code and/or text were generated with the assistance of ChatGPT (OpenAI) on 11/25/2025 and then modified by me.*
+
+2. **You are fully responsible for understanding all code and analysis you submit.**  
+   You must be able to explain:  
+   - What the code does  
+   - Why it is appropriate for the task  
+   - How the results should be interpreted  
+
+3. **Code suspected to be purely AI-generated (without understanding) will be scrutinized.**  
+   In such cases, your analysis and explanations will be held to the highest standards.
 
 4. **Uncited AI use is treated as academic dishonesty.**
-   - If you use AI and do **not** acknowledge it, this may be considered a violation of academic integrity policies.
 
 ---
 
 # Final Notes
-- Put **your name** at the top of your notebook.
-- Save your file as **YOUR_LAST_NAME_Project2.ipynb**.
-- Submit your notebook on **Blackboard**.
+- Put your name at the top of your notebook.  
+- Save your file as `YOUR_LAST_NAME_Project2.ipynb`.  
+- Submit your notebook on Blackboard.
