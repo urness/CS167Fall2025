@@ -19,13 +19,13 @@ You will be assessed on your ability to use the tools and algorithms introduced 
 
 ---
 
-# Option 1 — Compare MLPs, CNNs, and a Fine-Tuned AlexNet on Image Data
+# Option 1 — Compare Neural Networks on Image Data
 
 For this option, you will use one of the provided image datasets and implement **three models**:
 
 - A Multilayer Perceptron (MLP)  
 - A Convolutional Neural Network (CNN)  
-- A fine-tuned AlexNet model  
+- A fine-tuned AlexNet (or more complicated CNN) model  
 
 Your task is to explore different configurations of each model, train them, and thoroughly compare and contrast their performance.
 
