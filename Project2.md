@@ -65,6 +65,7 @@ Your research must include:
 
 ### 3. Analysis (12 points)
 Explain your findings in depth:
+- Interpret the results. Describe what your experiments revealed. Narriate your findings.
 - What is AlexNet?  
 - Which model performed best, and why?
 - Which model struggled, and why?  
@@ -72,7 +73,7 @@ Explain your findings in depth:
 - How did you choose tuning parameters?  
 - What did you find interesting or unexpected?
 
-This section should be the most substantial part of your report.
+This section should be the most substantial part of your report and will be evaluated based on the depth and thoroughness of your analysis.
 
 ### 4. Bumps in the Road (1 point)
 Briefly describe the challenges you encountered and how you addressed them.
