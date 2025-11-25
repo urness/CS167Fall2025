@@ -32,10 +32,10 @@ Your task is to explore different configurations of each model, train them, and 
 ### Dataset Choices:
 You may choose from one of the following datasets:
 
-#### Image Classification (bfgmss)
+#### Image Classification (bfgmss) [recommended]
 - Color 150×150 images  
 - Six classes: building, forest, glacier, mountain, sea, street  
-- Sample starter code provided.
+- Sample starter code provided [here](https://github.com/urness/CS167Fall2025/blob/main/project2startercodebfgmss.ipynb).
 
 #### Chest X-Ray Pneumonia Detection (warning: difficult)
 - Grayscale 200×200 images  
