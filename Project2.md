@@ -25,22 +25,22 @@ For this option, you will use one of the provided image datasets and implement *
 
 - A Multilayer Perceptron (MLP)  
 - A Convolutional Neural Network (CNN)  
-- A fine-tuned AlexNet (or more complicated CNN) model  
+- A fine-tuned AlexNet model  
 
 Your task is to explore different configurations of each model, train them, and thoroughly compare and contrast their performance.
 
 ### Dataset Choices:
 You may choose from one of the following datasets:
 
-#### Chest X-Ray Pneumonia Detection
-- Grayscale 200×200 images  
-- Labels: NORMAL or PNEUMONIA  
-- Sample starter code (Kaggle upload, MLP/CNN templates) will be provided.
-
 #### Image Classification (bfgmss)
 - Color 150×150 images  
 - Six classes: building, forest, glacier, mountain, sea, street  
 - Sample starter code provided.
+
+#### Chest X-Ray Pneumonia Detection (warning: difficult)
+- Grayscale 200×200 images  
+- Labels: NORMAL or PNEUMONIA  
+- Sample starter code (Kaggle upload, MLP/CNN templates) will be provided.
 
 Your report must explain *why* each model performed the way it did. Discuss architectural differences, suitability of the model to the dataset, and the impact of tuning decisions.
 
