@@ -36,7 +36,7 @@ You may choose from one of the following datasets:
 - Color 150×150 images  
 - Six classes: building, forest, glacier, mountain, sea, street  
 - Sample starter code provided [here](https://github.com/urness/CS167Fall2025/blob/main/project2startercodebfgmss.ipynb).
-![Alt text](https://raw.githubusercontent.com/USERNAME/REPO/main/images/example.png)
+  (https://github.com/urness/CS167Fall2025/blob/main/bfgmss_example.png)
 
 
 #### Chest X-Ray Pneumonia Detection (warning: difficult)
