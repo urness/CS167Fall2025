@@ -48,8 +48,7 @@ You may choose from one of the following datasets:
   <img src="https://raw.githubusercontent.com/urness/CS167Fall2025/main/x_ray_example.png" width="600">
 </p>
 
- - Sample starter code provided [here]([https://github.com/urness/CS167Fall2025/blob/main/project2startercodexray.ipynb]).
-<p>
+- Sample starter code provided [here](https://github.com/urness/CS167Fall2025/blob/main/project2startercodexray.ipynb).
 
 Your report must explain *why* each model performed the way it did. Discuss architectural differences, suitability of the model to the dataset, and the impact of tuning decisions.
 
@@ -120,17 +119,14 @@ Your write-up must include:
 
 You may use generative AI tools for this project **as long as you clearly acknowledge it**.
 
-1. You must cite any AI assistance.  
-   Include a short “AI Acknowledgment” at the top or bottom of your notebook.
+1. **You must cite any AI assistance.**
+  Include a short “AI Acknowledgment” at the top or bottom of your notebook describing what tools you used and how they contributed.
 
-2. You are responsible for understanding all code and explanations you submit.  
-   You must be able to explain your own work.
+2. **You are responsible for understanding all code and explanations you submit.**
+  You must be able to explain your own work. Your grade will be based on the quality of your analysis and reasoning — areas where generative AI often struggles to deliver at a high level.
 
-3. Code that appears to be purely AI-generated without your understanding will be held to the highest scrutiny.  
-   Your grade will reflect your demonstrated understanding, not the appearance of the code.
-
-4. Uncited AI use is considered academic dishonesty.
-
+3. **Uncited AI use is considered academic dishonesty.**
+  If you use AI, you must acknowledge it. Failure to do so violates academic integrity expectations.
 ---
 
 # Last Notes
