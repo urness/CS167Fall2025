@@ -101,6 +101,7 @@ If you choose this option, your report must include:
 - The code you wrote  
 - A clear user guide explaining how to run or use your system  
 - Screenshots or example interactions demonstrating functionality
+- Analysis of how transformers worked well in this project, as well as their shortcomings.
 
 ---
 
