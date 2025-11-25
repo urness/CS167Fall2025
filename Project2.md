@@ -104,6 +104,29 @@ Your final submission will be a **Google Colab notebook**  and supporting docume
 - Screenshots and example interactions
 
 ---
+## Use of Generative AI (ChatGPT, Copilot, etc.) 🤖
+
+You **may** use generative AI tools (e.g., ChatGPT, Copilot, Gemini, etc.) for this project **under the following conditions**:
+
+1. **You must clearly cite any AI assistance.**
+   - At the top or bottom of your notebook, include a short “AI Acknowledgment” section.
+   - Example:  
+     > Portions of the code and/or text in this notebook were generated with the assistance of ChatGPT (OpenAI) on 11/25/2025 and then modified by me.
+
+2. **You are fully responsible for understanding all code and analysis you submit.**
+   - If you use AI-generated code, you must be able to:
+     - Explain what it does line by line.
+     - Justify why it is appropriate for the dataset and task.
+     - Interpret the results it produces.
+
+3. **Code suspected to be purely AI-generated (and not understood by the student) will be scrutinized.**
+   - In such cases, the **analysis, explanations, and depth of understanding** will be held to the **highest standards**.
+   - If you cannot explain your own code or results, your grade will reflect that lack of understanding, regardless of how “good” the code looks.
+
+4. **Uncited AI use is treated as academic dishonesty.**
+   - If you use AI and do **not** acknowledge it, this may be considered a violation of academic integrity policies.
+
+---
 
 # Final Notes
 - Put **your name** at the top of your notebook.
