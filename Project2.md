@@ -60,7 +60,7 @@ Your final submission will be a **Kaggle iPython notebook** that includes your c
 Your written markdown sections must include the following:
 
 ### 1. Problem (2 points)
-State the problem you are trying to solve. Include a description of the dataset, the classes involved, and your overall goal. Your project should read like a reserach report.
+State the problem you are trying to solve. Include a description of the dataset, the classes involved, and your overall goal. Your project should read like a research report.
 
 ### 2. Research (10 points)
 This is where your code and experiments go.
