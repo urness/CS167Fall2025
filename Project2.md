@@ -105,15 +105,6 @@ If you choose this option, your report must include:
 
 ---
 
-# Project Expectations:
-
-Your write-up must include:
-- Clear explanations of your approach  
-- Code used in your application  
-- Graphs, metrics, or demonstration outputs  
-- Screenshots illustrating your application in action  
-
----
 
 ## Use of Generative AI (ChatGPT, Copilot, Gemini, etc.)
 
