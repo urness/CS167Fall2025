@@ -106,7 +106,6 @@ If you choose this option, your report must include:
 ---
 
 # Project Expectations:
-Your final submission will be a **iPython notebook** and any supporting files needed to run your system.
 
 Your write-up must include:
 - Clear explanations of your approach  
