@@ -73,7 +73,7 @@ Your research must include:
 
 ### 3. Analysis (12 points)
 Explain your findings in depth:
-- Interpret the results. Describe what your experiments revealed. Narriate your findings.
+- Interpret the results. Describe what your experiments revealed. Narrate your findings.
 - What is AlexNet?  
 - Which model performed best, and why?
 - Which model struggled, and why?  
